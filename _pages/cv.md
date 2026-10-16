@@ -42,8 +42,8 @@ Work & Research Experience
 * **Research Assistant Intern**  
   *JOiiNT LAB – Italian Institute of Technology (IIT) / Robotic Intelligence League Bergamo*  
   *Bergamo, Italy* | *May 2025 – Sept 2025*  
-    * Developed navigation improvements for a mobile robot equipped with a manipulator in agricultural applications.
-    * Conducted research and testing to enhance path planning, trajectory generation, and obstacle avoidance in complex environments.
+    * Developed a robotic machine feeding through a Humanoid robot: navigation, machine anomalies management, and autonomous feeding of the industrial cell.
+    * Conducted research and testing to enhance obstacle avoidance and dexterity in the assigned tasks.
 
 * **Software Developer Intern**  
   *Oversonic Robotics*  
@@ -77,4 +77,4 @@ Technical Skills & Languages
 * **Robotics & Software:** ROS 2, Gazebo, OpenCV, Open3D, PyTorch, Deep Learning, Reinforcement Learning, Linux, Git
 * **Control & Engineering:** MATLAB, Simulink, Model Predictive Control (MPC), Optimal Control, PLC Ladder Diagram
 * **Programming Languages:** Python, C++, MATLAB
-* **Languages:** Italian (Native), English (Professional / B2), German (B1)
+* **Languages:** Italian (Native), English (professional), German (B1)

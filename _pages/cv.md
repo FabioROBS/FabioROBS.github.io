@@ -69,7 +69,7 @@ Additional Projects & Experience
 * **Robotic Biopsy System — mtec Lab (TUHH):** Developed a robotic biopsy application using a Franka Emika Panda manipulator, employing ROS 2, OpenCV, and Open3D.
 * **AEA (Polimi Robotics Association):** Active member and organizer of workshops and technical industry visits (neural network workshop led by STMicroelectronics, Fanuc Robotics factory visit, lecture on electrical motors led by Pamoco).
 * **Siemens Automation Olympics:** Participated in the competition, contributing to the development of an automated machine capable of autonomously assembling a puzzle by leading PLC ladder programming.
-* **Polimi Sports Representation:** Selected twice for the 5-a-side Politecnico di Milano football team for the WIUC (World InterUniversities Championships).
+* **Polimi Sports Representation:** Selected three times for the 5-a-side Politecnico di Milano football team for the WIUC (World InterUniversities Championships).
 
 Technical Skills & Languages
 ======
